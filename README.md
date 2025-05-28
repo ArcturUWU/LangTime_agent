@@ -21,7 +21,7 @@ LangTime_agent is designed to provide a simple and intuitive way for users to de
 
 ## Installation and Setup
 
-1. Install Python on your system ⬇️
+1. Install Python on your system(3.11 or higher) ⬇️
 2. Clone this repository or download the zip file 💻
 3. Create a new virtual environment using Python 🌐
 4. Install the required dependencies using pip 🛠️
